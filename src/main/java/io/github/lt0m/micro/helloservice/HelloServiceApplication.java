@@ -1,12 +1,12 @@
-package io.github.lt0m.micro.helloworldservice;
+package io.github.lt0m.micro.helloservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloWorldServiceApplication {
+public class HelloServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloWorldServiceApplication.class, args);
+		SpringApplication.run(HelloServiceApplication.class, args);
 	}
 }

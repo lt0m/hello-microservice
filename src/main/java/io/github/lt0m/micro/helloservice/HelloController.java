@@ -1,4 +1,4 @@
-package io.github.lt0m.micro.helloworldservice;
+package io.github.lt0m.micro.helloservice;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
