@@ -11,5 +11,5 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/hello-microservice-1.0-SNAPSHOT.jar
+    - target/hello-service-1.0-SNAPSHOT.jar
   discard-paths: yes
