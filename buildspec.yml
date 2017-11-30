@@ -12,4 +12,6 @@ phases:
 artifacts:
   files:
     - target/hello-service-1.0-SNAPSHOT.jar
+    - appspec.yml
+    - application_start.sh
   discard-paths: yes
